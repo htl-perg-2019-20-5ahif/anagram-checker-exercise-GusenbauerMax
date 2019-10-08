@@ -1,0 +1,9 @@
+D:\Texte\5_AHIF\C#\anagram-checker-exercise-GusenbauerMax\AnagramCheckerLibrary\AnagramChecker\bin\Debug\netstandard2.0\dictionary.txt
+D:\Texte\5_AHIF\C#\anagram-checker-exercise-GusenbauerMax\AnagramCheckerLibrary\AnagramChecker\bin\Debug\netstandard2.0\AnagramCheckerLibrary.deps.json
+D:\Texte\5_AHIF\C#\anagram-checker-exercise-GusenbauerMax\AnagramCheckerLibrary\AnagramChecker\bin\Debug\netstandard2.0\AnagramCheckerLibrary.dll
+D:\Texte\5_AHIF\C#\anagram-checker-exercise-GusenbauerMax\AnagramCheckerLibrary\AnagramChecker\bin\Debug\netstandard2.0\AnagramCheckerLibrary.pdb
+D:\Texte\5_AHIF\C#\anagram-checker-exercise-GusenbauerMax\AnagramCheckerLibrary\AnagramChecker\obj\Debug\netstandard2.0\AnagramCheckerLibrary.csprojAssemblyReference.cache
+D:\Texte\5_AHIF\C#\anagram-checker-exercise-GusenbauerMax\AnagramCheckerLibrary\AnagramChecker\obj\Debug\netstandard2.0\AnagramCheckerLibrary.AssemblyInfoInputs.cache
+D:\Texte\5_AHIF\C#\anagram-checker-exercise-GusenbauerMax\AnagramCheckerLibrary\AnagramChecker\obj\Debug\netstandard2.0\AnagramCheckerLibrary.AssemblyInfo.cs
+D:\Texte\5_AHIF\C#\anagram-checker-exercise-GusenbauerMax\AnagramCheckerLibrary\AnagramChecker\obj\Debug\netstandard2.0\AnagramCheckerLibrary.dll
+D:\Texte\5_AHIF\C#\anagram-checker-exercise-GusenbauerMax\AnagramCheckerLibrary\AnagramChecker\obj\Debug\netstandard2.0\AnagramCheckerLibrary.pdb
